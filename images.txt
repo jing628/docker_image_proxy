@@ -1,5 +1,4 @@
-morunchang/fastdfs
-season/fastdfs:1.2
+osixia/keepalived
 
 mongo:5.0.28
 #openebs/admission-server:1.11.0
